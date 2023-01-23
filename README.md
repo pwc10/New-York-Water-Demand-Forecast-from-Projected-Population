@@ -9,3 +9,5 @@ Further detail will be shared in the report attached in this repository.
 As an addition, I wrote a simple forecasting method using Python to project the number of population until year 2100. This was just for me to see the difference between just estimating the population growth from past data and analyzing past data to project a possible pattern.
 
 The code is also available in this repository.
+
+Techniques Used: Python, Machine Learning, Tableau
